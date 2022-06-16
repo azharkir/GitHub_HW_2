@@ -1,0 +1,21 @@
+Bug ID
+Tester
+Date submitted
+Title
+Bug description:
+	URL
+	Summary
+	Screenshot
+	Platform
+	Browser
+Administrative:
+	Assigned to
+	Assigned at
+	Priority
+	Severity
+Notes: Step-by-step Description
+	1.
+	2.
+	3.
+Result - Should
+Result -is
